@@ -1,0 +1,216 @@
+Uri: https://litedeathmatch.ru/
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\index.htm
+Content Type: text/html
+
+Uri: https://litedeathmatch.ru/css/normalize.css
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\css\normalize.css
+Content Type: text/css
+
+Uri: https://litedeathmatch.ru/css/main.css
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\css\main.css
+Content Type: text/css
+
+Uri: https://litedeathmatch.ru/img/icons/logo.svg
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\icons\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://litedeathmatch.ru/index.php
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\index.html
+Content Type: text/html
+
+Uri: https://litedeathmatch.ru/donate.html
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\donate.html
+Content Type: text/html
+
+Uri: https://litedeathmatch.ru/userf/public-offerta.pdf
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\userf\public-offerta.pdf
+Content Type: application/pdf
+
+Uri: https://litedeathmatch.ru/img/icons/joystick.svg
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\icons\joystick.svg
+Content Type: image/svg+xml
+
+Uri: https://litedeathmatch.ru/img/general/humans.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\general\humans.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/monitoring/man.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\monitoring\man.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/monitoring/man-tablets.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\monitoring\man-tablets.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/icons/copy.svg
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\icons\copy.svg
+Content Type: image/svg+xml
+
+Uri: https://litedeathmatch.ru/img/icons/vk.svg
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\icons\vk.svg
+Content Type: image/svg+xml
+
+Uri: https://litedeathmatch.ru/img/icons/telegram.svg
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\icons\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://litedeathmatch.ru/img/icons/discord.svg
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\icons\discord.svg
+Content Type: image/svg+xml
+
+Uri: https://litedeathmatch.ru/img/general/general-bg.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\general\general-bg.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/decorations/square.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\decorations\square.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/decorations/sphere.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\decorations\sphere.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/monitoring/monitoring-bg.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\monitoring\monitoring-bg.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/decorations/triangle.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\decorations\triangle.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/benefits/angle.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\benefits\angle.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/icons/holy-grail.svg
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\icons\holy-grail.svg
+Content Type: image/svg+xml
+
+Uri: https://litedeathmatch.ru/img/icons/big-joystick.svg
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\icons\big-joystick.svg
+Content Type: image/svg+xml
+
+Uri: https://litedeathmatch.ru/img/icons/store.svg
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\icons\store.svg
+Content Type: image/svg+xml
+
+Uri: https://litedeathmatch.ru/img/guide/guide-bg.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\guide\guide-bg.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/decorations/polyhedron.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\decorations\polyhedron.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/guide/item-bg1.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\guide\item-bg1.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/guide/item-bg2.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\guide\item-bg2.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/guide/item-bg3.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\guide\item-bg3.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/decorations/persphere.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\decorations\persphere.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/decorations/big-triangle.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\decorations\big-triangle.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/benefits/angle-tablets.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\benefits\angle-tablets.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/benefits/angle-phones.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\benefits\angle-phones.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/icons/small-holy.svg
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\icons\small-holy.svg
+Content Type: image/svg+xml
+
+Uri: https://litedeathmatch.ru/img/icons/small-joystick.svg
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\icons\small-joystick.svg
+Content Type: image/svg+xml
+
+Uri: https://litedeathmatch.ru/img/icons/small-store.svg
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\icons\small-store.svg
+Content Type: image/svg+xml
+
+Uri: https://litedeathmatch.ru/css/donate.css
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\css\donate.css
+Content Type: text/css
+
+Uri: https://litedeathmatch.ru/donate-admin.html
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\donate-admin.html
+Content Type: text/html
+
+Uri: https://litedeathmatch.ru/img/price/money.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\price\money.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/price/car.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\price\car.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/price/ticket.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\price\ticket.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/price/pass.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\price\pass.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/price/crown.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\price\crown.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/price/speed.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\price\speed.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/price/car2.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\price\car2.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/price/gun.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\price\gun.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/js/main.js
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\js\main.js
+Content Type: application/javascript
+
+Uri: https://litedeathmatch.ru/img/donate/bg.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\donate\bg.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/vip/angle.png
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\vip\angle.png
+Content Type: image/png
+
+Uri: https://litedeathmatch.ru/img/icons/star.svg
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\icons\star.svg
+Content Type: image/svg+xml
+
+Uri: https://litedeathmatch.ru/img/icons/discount.svg
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\icons\discount.svg
+Content Type: image/svg+xml
+
+Uri: https://litedeathmatch.ru/img/icons/crown.svg
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\icons\crown.svg
+Content Type: image/svg+xml
+
+Uri: https://litedeathmatch.ru/agreement.html
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\agreement.html
+Content Type: text/html
+
+Uri: https://litedeathmatch.ru/img/icons/support.svg
+File Name: c:\Downloaded Web Sites\litedeathmatch.ru\img\icons\support.svg
+Content Type: image/svg+xml
+
